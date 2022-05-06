@@ -1,0 +1,23 @@
+.role-bg{
+    background: linear-gradient(to right, #16222a, #3a6073);
+    height: 400px;
+}
+.role{
+    margin-top: -200px;
+}
+.role-content{
+    margin-top: -100px;
+    background: hsla(0, 0%, 100%, 0.8);
+    backdrop-filter: blur(30px);
+    width: 50vw;
+}
+.card-group-1 {
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.admin {
+    height: 50vh;
+    align-items: center;
+    justify-content: space-around;
+}
